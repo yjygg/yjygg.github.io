@@ -11,8 +11,8 @@ timezone:            Asia/Singapore # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         YJYGG
 title:               A site of YJYGG
-tagline:             'tagline'
-description:         'description'
+tagline:             'A collection of cherishable moments'
+description:         'This is a site to document YJYGG's life'
 url:                 https://yjygg.github.io
 rss:                 rss feed url
 baseurl:             '/'
