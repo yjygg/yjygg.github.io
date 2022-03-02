@@ -7,13 +7,13 @@ highlighter:         pygments
 permalink:           /:title
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+timezone:            Asia/Singapore # eg. Asia/Kathmandu
+locale:              en_us # eg. en_us
+name:				         YJYGG
+title:               A site of YJYGG
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 https://yjygg.github.io
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -24,8 +24,8 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
-  url:            	 your site url
+  name:           	 yueguoguo 
+  url:            	 yueguoguo.github.io
   facebook:          username
   twitter:           username
   google_plus:       username
