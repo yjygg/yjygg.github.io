@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            YJYGG's Family Site
+title:            YJYGG's Site
 tagline:          ''
-description:      'A collection of cherishable moments created by @yj and <a href="https://yueguoguo.github.io" target="_blank">@yueguoguo</a>.'
+description:      'A collection of cherishable moments created and maintained by <a href="https://github.com/Yiyiyiyyy" target="_blank">@yj and <a href="https://yueguoguo.github.io" target="_blank">@yueguoguo</a>.'
 url:              https://yjygg.github.io
 baseurl:          /
 
